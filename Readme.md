@@ -9,7 +9,7 @@
 3. getEHealthRecord(): This function allows patients and doctors to retrieve ehealth records from the blockchain. 
 ---
 # Ehealth Main smart contract ---->Ehealth.sol<br>
-----
+---
 *This smart contract overlies with adding up more functions like:*<br>
 
 4. getEHealthRecordsByPatientId(string memory patientId): This function returns a list of all e-health records for a given patient ID. <br>
